@@ -353,7 +353,7 @@ input {
 	width: 50%;
 	z-index: 999;
 	background: url('../img/menu_bg.jpg') no-repeat center center / cover;
-	height: 20dvh;
+	height: 100dvh;
 	padding: 210px 0;
 	transform: translate(-100%, 0);
 	transition: all .5s ease;
