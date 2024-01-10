@@ -352,7 +352,7 @@ input {
 	justify-content: space-between;
 	width: 50%;
 	z-index: 999;
-	background: url('/img/mobile-menu-bg.jpg') no-repeat center center / cover;
+	background: url('/img/menu_bg.jpg') no-repeat center center / cover;
 	height: 100vh;
 	padding: 210px 0;
 	transform: translate(-100%, 0);
